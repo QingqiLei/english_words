@@ -87,3 +87,25 @@
 2. So far, we have managed to overcome all the obstacles that have been placed in our path.
 3. The area was full of streams and bogs and other natural obstacles.
 
+#### unravel
+1. I unravelled the string and wound it into a ball.
+2. The discovery will help the scientists unravel the  mystery of the Ice Age.
+
+#### heed
+1. In turn, he paid heed to everything I said and had a lot of regard for me.
+
+#### thwart
+1. She was thwarted in her attempt to take control of the party.
+
+#### disseminate 
+1. their finding have been widely disseminate
+
+#### glaze
+1. A lot of people's eye glaze over if you say you are a feminist
+2. Glaze the pie with beaten egg.
+
+#### serene
+1. a lake, still and serene in the sunlight
+
+#### plank
+1. a plank of wood
