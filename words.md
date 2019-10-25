@@ -1785,3 +1785,111 @@ comprise
 #### organic
 
 #### ward
+
+#### aspirin
+
+#### clinic
+
+#### catch
+
+#### rash
+
+#### swell
+
+#### bump
+
+#### allergic
+
+#### chronic
+
+#### itchy
+
+#### swollen
+
+#### coma
+
+#### frail
+
+#### cosmetic
+
+#### pharmacy
+
+#### bazaar
+
+#### carnival
+
+#### salon
+
+#### streamer
+
+#### wizard
+
+#### witch
+
+#### gravy
+
+#### chimney
+
+#### riddle
+
+#### bulb
+
+#### taboo
+
+#### conch
+
+#### sunbathe
+
+#### picnic
+
+#### poker
+
+#### balloon
+
+#### doll
+
+#### spectacular
+
+#### saxophone
+
+#### flute
+
+#### harp
+
+#### sitcom
+
+#### funfair
+
+#### fairground
+
+#### solely
+
+#### outskirts
+
+#### resort
+
+#### souvenir
+
+#### receptionist
+
+#### hostel
+
+#### vacancy
+
+#### sheet
+
+#### buffet
+
+#### stopover
+
+#### horn
+
+#### whistle
+
+#### gear
+
+#### airsick
+
+#### cruise
+
+#### bumpy
