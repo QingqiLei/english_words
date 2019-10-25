@@ -1699,3 +1699,89 @@ comprise
 #### intermediary
 
 ####  novice
+
+#### speculation
+
+#### prospectus
+
+#### redeem
+
+#### dividend
+
+#### security
+
+#### portfolio
+
+#### joypad
+
+#### dodge
+
+#### castle
+
+#### storyline
+
+#### dungeon
+
+#### caster
+
+#### avatar
+
+#### rampage
+
+#### spree
+
+#### renounce
+
+#### execution
+
+#### enmity
+
+#### hydrant
+
+#### lava
+
+#### chaotic
+
+#### Jupiter
+
+#### Venus
+
+#### Withered
+
+#### forest
+
+#### bud
+
+#### wither
+
+#### sod
+
+#### wasp
+
+#### beetle
+
+#### peacock
+
+#### dove
+
+#### sparrow
+
+#### lark
+
+#### giraffe
+
+#### zebra
+
+#### kangaroo
+
+#### lamb
+
+#### chick
+
+#### hen
+
+#### goose
+
+#### organic
+
+#### ward
