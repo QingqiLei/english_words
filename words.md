@@ -87,25 +87,763 @@
 2. So far, we have managed to overcome all the obstacles that have been placed in our path.
 3. The area was full of streams and bogs and other natural obstacles.
 
-#### unravel
-1. I unravelled the string and wound it into a ball.
-2. The discovery will help the scientists unravel the  mystery of the Ice Age.
+#### archarology
+archarologist, archarological
 
-#### heed
-1. In turn, he paid heed to everything I said and had a lot of regard for me.
+#### refinement
 
-#### thwart
-1. She was thwarted in her attempt to take control of the party.
+#### destine
 
-#### disseminate 
-1. their finding have been widely disseminate
+#### leap
 
-#### glaze
-1. A lot of people's eye glaze over if you say you are a feminist
-2. Glaze the pie with beaten egg.
+#### Antarctic
 
-#### serene
-1. a lake, still and serene in the sunlight
+#### tale
 
-#### plank
-1. a plank of wood
+#### herbivore
+
+#### peasant
+
+#### neutral
+
+#### faraway
+
+#### straighten
+
+#### pant
+
+#### comprise
+
+#### glacial
+
+#### sculpt
+
+#### orchestra
+
+#### dean
+
+#### pest
+
+#### reinvent
+
+#### plural
+
+#### sketch
+
+#### reluctant
+
+#### digestive
+
+#### divider
+
+#### botany
+
+#### concept
+#### factual
+
+#### comical
+
+#### nutrient
+
+#### harvest
+
+#### spoil
+
+#### critique
+
+#### disregard
+
+#### mythical
+
+#### physiological
+
+#### flyer
+
+#### longevity
+
+#### notable
+
+#### twinkle
+
+#### auditorium
+
+#### triumph
+
+#### leaflet
+
+#### shade
+
+#### constitute
+comprise
+#### abound
+
+#### punctuation
+
+#### conquest
+
+#### stake
+
+#### cord
+
+#### crude
+
+#### cactus
+
+#### seal
+
+#### heroine
+
+#### exceed
+
+#### continental
+
+#### petal
+
+#### vitality
+
+#### genre
+
+#### secrete
+
+#### steep
+
+#### creep
+
+#### inhale
+
+#### replant
+
+#### civic
+
+#### defect
+
+#### rear
+
+#### stain
+
+#### glaciation
+
+#### crustal
+
+#### instill
+
+#### drawback
+
+#### hatch
+
+#### resort
+
+#### vigorous
+
+#### villa
+
+#### gem
+
+#### distinctly
+
+#### tidal
+
+#### obligation
+
+#### knit
+
+#### choir
+
+#### hub
+
+#### reckon
+
+#### subtropical
+
+#### pierce
+
+#### scribe
+
+#### candid
+
+#### carnival
+
+#### submerge
+
+#### exterminate
+
+#### halt
+
+#### constructive
+
+#### proponent
+
+#### habitual
+
+#### hop
+
+#### refute
+
+#### elaborate
+
+#### fuse
+
+#### amphibian
+
+#### recreational
+
+#### shed
+
+#### recount
+
+#### divert
+
+#### intrude
+
+#### seep
+
+#### arouse
+
+#### stool
+
+#### persevere
+
+#### hasten
+
+#### pinpoint
+
+#### inorganic
+
+#### receptor
+
+#### ward
+
+#### scrape
+
+#### furnish
+
+#### trunk
+
+#### constrict
+
+#### resent
+
+#### freight
+
+#### tribal
+
+#### bore
+
+#### arid
+
+#### omit
+
+#### fume
+
+#### receptionist
+
+#### viable
+
+#### meteoric
+
+#### chandelier
+
+#### ware
+
+#### recital
+
+#### shelve
+
+#### beaver
+
+#### impurity
+
+#### tactic
+
+#### robin
+
+#### uplift
+
+#### potent
+
+#### restate
+
+#### constituent
+
+#### confine
+
+#### carnivore
+
+#### deceit
+
+#### comit
+
+#### dampen
+
+#### dehydrate
+
+#### dispense
+
+#### miraculous
+
+#### synonym
+
+#### energize
+
+#### clan
+
+#### scent
+
+#### instrumental
+
+#### oxidize
+
+#### fuss
+
+#### navigable
+
+#### citizenry
+
+#### competence
+
+####  dizziness
+
+#### shun  
+
+#### carbonate
+
+#### unintentional
+
+#### successive
+
+#### inference
+
+#### indefensible
+
+#### relay
+
+#### requisite
+
+#### mystify
+
+#### temporal
+
+#### pollutant
+
+#### radiant
+
+#### habitat
+
+#### lava
+
+#### meteor
+
+#### prieset
+
+#### cane
+
+#### mount
+
+#### wane
+
+#### embryo
+
+#### diverge
+
+#### coral
+
+#### typify
+
+#### vertebrate
+
+#### lettuce
+#### peculiarity
+
+#### linguistic
+
+#### nestle
+
+#### astronomy
+
+#### unequaled
+
+#### distress
+
+#### stellar
+
+#### plum
+
+#### sensory
+
+#### irresistible
+
+#### hormone
+
+#### mimic
+
+#### dictate
+
+#### taxation
+
+#### gross
+
+#### harmonious
+
+#### plumb
+
+#### ditch
+
+#### barren
+
+#### shrinkage
+
+#### pesticide
+
+#### rehearsal
+
+#### catelyst
+
+#### chamber
+
+#### plow
+
+#### windmill
+
+#### ecologist
+
+#### asteroid
+
+#### disharmony
+
+#### violet
+
+#### acidity
+
+#### scarce
+
+
+#### starch
+
+#### peck
+
+#### deplete
+
+#### landmass
+
+#### counsel
+
+#### pollinate
+
+#### hamper
+
+#### anchor
+
+#### inhibit
+
+#### temperate
+
+#### hardy
+
+#### aromatic
+
+#### trickle
+
+#### swirl
+
+#### feat
+
+#### odor
+
+#### glacier
+
+#### gut
+
+#### avoidance
+
+#### apparatus
+
+#### intervention
+
+#### bust
+#### mediate
+
+#### predatory
+
+#### heredity
+
+#### skull
+
+#### discredit
+
+#### rebellion
+
+#### sculpture
+
+#### audition
+
+#### blacksmith
+
+#### phoenix
+
+#### conformity
+
+#### granite
+
+#### quest
+
+#### posit
+
+#### rodent
+
+#### flock
+
+#### reclaim
+
+#### equator
+
+#### perimeter
+
+#### proverb
+
+#### stove
+
+#### aroma
+
+#### primate
+
+#### audible
+
+#### aisle
+
+#### torrent
+
+#### wig
+
+#### sap
+
+#### consulate
+
+#### glossary
+
+#### engrave
+
+#### embellish
+
+#### irreversible
+
+#### resonance
+
+#### anthrophlogy
+
+#### decipher
+
+#### flora
+
+#### frenzy
+
+#### saline
+
+#### ore
+
+#### aquarium
+
+#### sinkhole
+
+#### zenith
+
+#### courtship
+
+#### paleontology
+
+#### subordinate
+
+#### erratic
+
+#### outpost
+
+#### influx
+#### plume
+
+#### succession
+
+#### mosaic
+
+#### agitate
+
+#### ingenious
+
+#### artisan
+
+#### radiator
+
+#### satire
+
+#### elevation
+
+#### sift
+
+#### volatile
+
+#### shroud
+
+#### growl
+
+#### deem
+
+#### reciprocity
+
+#### elicit
+
+#### pivotal
+
+#### sterile
+
+#### exploitation
+
+#### mite
+
+#### mammoth
+
+#### arduous
+
+#### vine
+
+#### landfill
+#### groom
+
+#### delineate
+
+#### harness
+
+#### alteration
+
+#### smother
+
+#### revolve
+
+#### allude
+
+#### salinity
+
+#### infusion
+
+#### clog
+
+#### crescent
+
+#### indicative
+
+#### formidable
+
+#### planetary
+
+#### fidility
+
+#### infringe
+
+####  anatomy
+
+#### conjunction
+
+#### rye
+
+#### meadow
+
+#### speck
+
+#### arousal
+
+#### ambient
+
+#### undisputed
+
+#### secular
+
+#### divergence
+
+#### Cambrian
+
+#### tyrant
+
+#### presumably
+
+#### phony
+
+#### requisition
+
+#### encroach
+
+#### provision
+
+#### stark
+
+#### lyrical
+
+#### chronological
+
+#### eradicate
+
+#### entice
+
+#### manuscript
+
+#### cling
+
+#### bleach
+
+#### devour
+
+#### advent
+
+#### runoff
+#### helium
+
+#### indefinite
+
+#### spout
+
+#### indigestion
+
+#### interim
+
+#### porcelain
+
+#### parasitic
+
+#### terrace
+
+#### chore
+
+#### stem
+
+#### entangle
+
+#### detrimental
+
+#### afield
+
+#### grinding
+
+#### resonate
+
+#### insulate
+
+#### camouflage
+
+#### grandiose
+
+#### fetus
+
+#### scrape
+#### feadal
+
+#### nomadic
+
+#### gear
+
+#### waterfowl
+
+#### anecdotal
+
+#### cobble
+
+#### mirage
+
+#### amass
+
+####  
