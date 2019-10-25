@@ -846,4 +846,179 @@ comprise
 
 #### amass
 
-####  
+#### chlorophyll
+
+#### pancreas
+
+#### ooze
+
+#### lipid
+
+#### impediment
+
+#### coral
+
+#### chisel
+
+#### antagonize
+
+#### algae
+
+#### gibbon
+
+#### atheist
+
+#### tentacle
+
+#### supplant
+
+#### prerequisite
+
+#### perpetuate
+
+#### mural
+
+#### crouch
+
+#### stringent
+
+#### encompass
+
+####  bleak
+
+#### toad
+
+#### impart
+
+#### lumber
+
+#### wrought
+
+#### diffuse
+
+#### resin
+
+#### reddish
+
+#### tundra
+
+#### olfacory
+
+#### potassium
+
+#### cedar
+
+#### smug
+
+#### preponderance
+
+#### noxious
+
+#### lithosphere
+
+#### shed
+
+#### akin
+
+#### kerosene
+
+#### niche
+
+#### harness
+
+#### dissolve
+
+#### gulf
+
+#### fertile
+
+#### astute
+
+#### beak
+
+#### vestige
+
+#### thorny
+
+#### tenement
+
+#### potash
+
+#### enzyme
+
+#### mandate
+
+#### ion
+
+#### synchronous
+
+#### quadrilateral
+
+#### polygon
+
+#### penchant
+
+#### observatory
+
+#### marrow
+
+
+#### cone
+
+#### burrow
+
+#### beacon
+
+#### astronomy
+
+#### agitation
+
+#### disrepute
+
+#### pigment
+
+#### flax
+
+#### incubate
+
+#### backbone
+
+#### peripheral
+
+#### fossil
+
+#### plummet
+
+#### rodent
+
+#### rental
+
+#### realism
+
+#### baboon
+
+#### condor
+
+#### asteroid
+
+#### modem
+
+
+#### superintendent
+
+#### rehabilitate
+
+#### propensity
+
+
+#### meander
+
+#### lavish
+
+#### devoid
+
+#### canyon
+
+#### burgeon
+
+#### 
