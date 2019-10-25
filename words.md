@@ -1213,4 +1213,489 @@ comprise
 
 #### precipitate
 
-#### 
+#### orchid
+
+#### genre
+
+#### avant-garde
+
+
+#### wheat
+
+#### entail
+
+#### photosynthesis
+
+#### elliptical
+
+#### emanate
+
+#### strain
+
+#### steep
+
+#### strip
+
+#### stipulate
+
+#### adverse
+
+#### magnify
+
+#### incessant
+
+#### grain
+
+#### barter
+
+#### postulate
+
+#### irreverent
+
+#### lucrative
+
+#### irony
+
+#### residue
+
+#### reign
+
+#### prejudice
+
+#### perishable
+
+#### painstaking
+
+#### mundane
+
+#### excavate
+
+#### tract
+
+#### feat
+
+#### negate
+
+#### immune
+
+#### devour
+
+#### burial
+
+#### vague
+
+#### sweep
+
+#### longing
+
+#### integrate
+
+#### humidity
+
+#### evenly
+
+#### vacant
+
+#### converse
+
+#### dismay
+
+#### mobility
+
+#### tablet
+
+#### taxation
+
+#### scam
+
+#### merger
+
+#### exploit
+
+#### debit
+
+#### bond
+
+#### bilateral
+
+#### bidder
+
+#### audit
+
+#### coaster
+
+#### tray
+
+#### dish
+
+#### jug
+
+#### goblet
+
+#### straw
+
+#### strainer
+
+#### whisk
+
+#### grater
+
+#### saucepan
+
+#### rum
+
+#### sherry
+
+#### espresso
+
+#### latte
+
+#### cider
+
+#### gin
+
+#### brandy
+
+#### whisky
+
+#### tequila
+
+#### herbal tea
+
+#### lemonade
+
+#### milkshake
+
+#### donut
+
+#### pancake
+
+#### yeast
+
+#### icing
+
+#### marzipan
+
+#### pie
+
+#### mozzarella
+
+#### nougat
+
+#### marshmallow
+
+#### pistachio
+
+#### mousse
+
+#### baguette
+
+#### tart
+
+#### brownie
+
+#### waffle
+
+#### truffle
+
+#### shortbread
+
+#### scone
+
+#### spatula
+
+#### starch
+
+#### rye
+
+#### meringue
+
+#### rosemary
+
+#### mint
+
+#### syrup
+
+#### jelly
+
+#### vanilla
+
+#### hazelnut
+
+#### glucose
+
+#### emulsify
+
+#### fig
+
+#### fondant
+
+#### muffin
+
+#### yolk
+
+#### croissant
+
+#### puff
+
+#### custard
+
+#### chestnut
+
+#### cinnamon
+
+#### radish
+
+#### cauliflower
+
+#### lettuce
+
+#### spinach
+
+#### celery
+
+#### papaya
+
+#### durian
+
+#### melon
+
+#### cranberry
+
+#### grapefruit
+
+#### tactical
+
+#### empathy
+
+#### simplicity
+
+#### stickability
+
+#### perseverance
+
+#### incisive
+
+#### perception
+
+#### elite
+
+#### evangelist
+
+#### profitable
+
+#### loan
+
+#### negotiation
+
+#### angel
+
+#### interpretation
+
+#### journal
+
+#### narrative
+
+#### expository
+
+#### memoir
+
+#### manga
+
+#### rhetorical
+
+#### parallelism
+
+#### personification
+
+#### simile
+
+#### metaphor
+
+#### illustrate
+
+#### sparkling
+
+#### retainer
+
+#### luxurious
+
+#### generosity
+
+#### gallery
+
+#### fireplace
+
+#### exquisite
+
+#### fabulous
+
+#### cuisine
+
+#### inn
+
+#### itinerary
+
+#### kinship
+
+#### tomb
+
+#### netizen
+
+#### pal
+
+#### groom
+
+#### tribe
+
+#### rag
+
+#### rug
+
+#### mash
+1. The soup was a mash of grain and vegetables
+#### grill
+
+#### lid
+
+#### mop
+
+#### crayfish
+
+#### lobster
+
+#### mango
+
+#### coconut
+
+#### pineapple
+
+#### mince
+
+#### stew
+
+#### jam
+
+#### biscuit
+
+#### lipstick
+
+#### lamp
+
+#### wardrobe
+
+#### footstool
+
+#### comb
+
+#### stool
+
+#### quilt
+
+#### attic
+
+#### praise
+
+#### philosophy
+
+#### literature
+
+#### auditor
+
+#### sophomore
+
+#### pupil
+
+#### chalk
+
+#### sharpener
+
+#### crayon
+
+#### stationery
+
+#### hockey
+
+#### drown
+
+#### yoga
+
+#### inhale
+
+#### exhale
+
+#### athletic
+
+#### dash
+
+#### skiing
+
+#### fencing
+
+#### backstroke
+
+#### badminton
+
+#### efficacy
+
+#### prep
+
+#### consumerism
+
+#### discerning
+
+#### clearance
+
+#### outsell
+
+#### hiatus
+
+#### buzz
+
+#### detergent
+
+#### premiere
+
+#### omnipotent
+
+#### relieved
+
+#### pilot
+
+#### sequel
+
+#### alcoholic
+
+#### lasagne
+
+#### paranoid
+
+#### hysterical
+
+#### spotlight
+
+#### uncanny
+
+#### catchphrase
+
+#### attagirl
+
+#### bagel
+
+#### freeloader
+
+#### cast
+
+#### poster
+
+#### spoiler
+
+#### tailer
+
+#### advisory
+
+#### equity
+
+#### intermediary
+
+####  novice
