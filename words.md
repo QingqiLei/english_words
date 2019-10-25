@@ -1021,4 +1021,196 @@ comprise
 
 #### burgeon
 
+#### microbe
+
+#### pluck
+
+#### extent
+
+#### puddle
+
+#### stagnant
+
+#### wool
+
+#### vertebrate
+
+
+#### trunk
+
+#### tin
+
+#### subsist
+
+#### sterile
+
+#### stagecoach
+
+#### sloth
+
+#### revere
+
+#### metropolis
+
+
+
+#### limestone
+
+#### jurisdiction
+
+#### inviting
+
+#### immobilize
+
+#### hexagon
+
+#### funnel
+
+#### formidable
+
+#### entrance
+
+#### embryo
+
+#### deity
+
+#### charcoal
+
+#### canopy
+
+#### fungus
+
+#### nectar
+
+#### genus
+
+#### subsidize
+
+#### percussion
+
+#### motif
+
+#### incongruous
+
+
+
+#### bison
+
+
+#### axe
+
+#### undermine
+
+#### roam
+
+#### granite
+
+#### earthenware
+
+#### cylinder
+
+#### swamp
+
+#### peculiar
+
+#### crater
+
+#### caterpillar
+
+#### planetary
+
+#### lone
+
+#### troupe
+
+#### maize
+
+#### methane
+
+#### invertebrate
+
+#### dogged
+
+#### bumblebee
+
+#### deteriorate
+
+#### tale
+
+#### stem
+
+#### retreat
+
+#### rattle
+
+#### precursor
+
+#### moth
+
+#### jumble
+
+#### aquatic
+
+#### televise
+
+#### sunlit
+
+#### sewerage
+
+#### retract
+
+#### pry
+
+#### primate
+
+#### plaza
+
+#### nostril
+
+#### moss
+
+#### meteorologist
+
+#### maternal
+
+#### lichen
+
+#### embellish
+
+#### dificient
+
+#### abhor
+
+#### nostalgia
+
+#### spiky
+
+#### scavenger
+
+#### meteorite
+
+#### incentive
+
+#### secrete
+
+#### snowflake
+
+#### etch
+
+#### nebula
+
+#### remnant
+
+#### weary
+
+#### sandy
+
+#### boulder
+
+#### bipedal
+
+#### willow
+
+#### precipitate
+
 #### 
