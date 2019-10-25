@@ -1893,3 +1893,129 @@ comprise
 #### cruise
 
 #### bumpy
+
+#### excessive
+
+#### trolley
+
+#### tram
+
+#### pavement
+
+#### hail
+
+#### dawn
+
+#### wink
+
+#### eyelid
+
+#### ponytail
+
+#### bald
+
+#### palm
+
+#### hip
+
+#### extrovert
+
+#### introvert
+
+#### witty
+
+#### bashful
+
+#### puerile
+
+#### moody
+
+#### finicky
+
+#### melancholy
+
+#### courageous
+
+#### industrious
+
+#### amiable
+
+#### audacious
+
+#### suntan
+
+#### greasy
+
+#### pale
+
+#### inventive
+
+#### studious
+
+#### placid
+
+#### plump
+
+#### chubby
+
+#### dissolution
+
+#### packer
+
+#### potent
+
+#### clip
+
+#### tape
+
+#### projector
+
+#### attendance
+
+#### welfare
+
+#### allowance
+
+#### plumber
+
+#### salesperson
+
+#### division
+
+#### superior
+
+#### firm
+
+#### capacity
+
+#### sonnet
+
+#### ode
+
+#### ballad
+
+#### autobiography
+
+#### allegory
+
+#### heroine
+
+#### satire
+
+#### monologue
+
+#### rhyme
+
+#### stress
+
+#### narrator
+
+#### narration
+
+#### playwright
+
+#### lyric
+
+#### prose
+
+#### suspense  
