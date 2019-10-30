@@ -80,8 +80,6 @@
 2. He put up a stout defence in court.
 #### refurbish
 
-#### plasma
-
 #### obstacle
 1. A lack of qualifications can be a major obstacle to finding a job.
 2. So far, we have managed to overcome all the obstacles that have been placed in our path.
@@ -90,642 +88,541 @@
 #### archarology
 archarologist, archarological
 
-#### refinement
 
-#### destine
-
-#### leap
 
 #### Antarctic
 
 #### tale
+1. Like the myth of Hercules, the legend of Samson is a tale recounted in many cultures.
 
-#### herbivore
-
-#### peasant
-
-#### neutral
-
-#### faraway
-
-#### straighten
-
-#### pant
-
-#### comprise
-
-#### glacial
 
 #### sculpt
+create or represent by carving, casting, or other shaping techniques
+1. She was teaching him how to sculpt.
 
-#### orchestra
 
-#### dean
-
-#### pest
-
-#### reinvent
-
-#### plural
-
-#### sketch
 
 #### reluctant
+unwilling and hesitant, disinclined
 
-#### digestive
 
-#### divider
 
 #### botany
+植物学
 
-#### concept
-#### factual
 
-#### comical
 
 #### nutrient
+a substance that provides nourishment essential for growth and the maintenance of life.
 
-#### harvest
-
-#### spoil
-
-#### critique
-
-#### disregard
-
-#### mythical
 
 #### physiological
+生理的
 
-#### flyer
 
-#### longevity
 
-#### notable
+#### twinkle 
+tun kou
 
-#### twinkle
 
-#### auditorium
-
-#### triumph
-
-#### leaflet
-
-#### shade
 
 #### constitute
 comprise
 #### abound
 
 #### punctuation
+标点
 
 #### conquest
+征服
 
 #### stake
 
 #### cord
+绳子
 
-#### crude
 
 #### cactus
+仙人掌
 
 #### seal
 
-#### heroine
-
-#### exceed
 
 #### continental
-
+陆的， 内的
 #### petal
+花瓣
 
 #### vitality
+活力， 生机
 
 #### genre
 
 #### secrete
+隐秘， 分泌
 
-#### steep
 
-#### creep
 
 #### inhale
-
+吸入
 #### replant
-
-#### civic
-
-#### defect
-
-#### rear
-
-#### stain
-
-#### glaciation
+补种子
 
 #### crustal
+地壳
 
 #### instill
-
-#### drawback
-
-#### hatch
-
-#### resort
-
-#### vigorous
-
+灌输， 谆谆教诲
 #### villa
+别墅
 
 #### gem
-
-#### distinctly
-
+宝石
 #### tidal
-
-#### obligation
-
-#### knit
+潮汐
 
 #### choir
+合唱
 
 #### hub
 
 #### reckon
-
-#### subtropical
-
-#### pierce
+估计， 推算
 
 #### scribe
+抄写员
 
 #### candid
-
+坦率
 #### carnival
-
+狂欢
 #### submerge
 
 #### exterminate
 
 #### halt
-
-#### constructive
-
-#### proponent
-
-#### habitual
-
-#### hop
+停止
 
 #### refute
+反驳
 
 #### elaborate
 
 #### fuse
+保险丝， 融合
 
 #### amphibian
+两栖动物
 
 #### recreational
 
 #### shed
+流
 
 #### recount
 
 #### divert
+转移，使转向
 
 #### intrude
+侵入
 
 #### seep
+渗透
 
 #### arouse
 
 #### stool
+凳子，厕所
 
 #### persevere
+坚持不懈
 
-#### hasten
+#### hasten     heisn
+加快
 
 #### pinpoint
+精确的，精确定位的
+
 
 #### inorganic
 
 #### receptor
+感受器
 
 #### ward
+牢房，病房，保卫，
 
 #### scrape
+刮
 
 #### furnish
+提供， 输送
 
 #### trunk
-
+树干
 #### constrict
+缩小，压迫，精简
 
 #### resent
+憎恨
 
 #### freight
+货物
 
 #### tribal
-
+部落的
 #### bore
-
+钻孔， 使厌烦
 #### arid
+干旱
 
 #### omit
 
 #### fume
 
 #### receptionist
+接待员
 
 #### viable
+可行的，能存活的
 
 #### meteoric
+流星的
 
 #### chandelier
+衫的
 
 #### ware
+陶器，洁具，器具
 
 #### recital
-
+叙述，演唱会，
 #### shelve
-
+废弃，搁置，倾斜
 #### beaver
 
 #### impurity
 
 #### tactic
-
+策略，战术
 #### robin
+robin
 
 #### uplift
+振奋
 
 #### potent
-
+强大的，有效力的
 #### restate
-
+重述
 #### constituent
-
+成分，构成部分，要素
 #### confine
-
+限制
 #### carnivore
 
 #### deceit
-
+欺诈
 #### comit
-
+喜剧的
 #### dampen
 
 #### dehydrate
-
+脱水
 #### dispense
-
+分发
 #### miraculous
-
+神奇的，奇迹般地
 #### synonym
 
 #### energize
 
 #### clan
-
+宗族		
 #### scent
-
+气味
 #### instrumental
 
 #### oxidize
-
+氧化
 #### fuss
-
+争吵，
 #### navigable
 
 #### citizenry
-
+全体市民
 #### competence
-
+权限，能力		
 ####  dizziness
 
 #### shun  
+避开，避免，
 
 #### carbonate
+碳酸盐
 
 #### unintentional
-
+无意的
 #### successive
-
+连续的
 #### inference
-
+推断
 #### indefensible
+站不住脚的
 
 #### relay
 
 #### requisite
 
 #### mystify
+使困惑
 
 #### temporal
+短暂的，时间的
 
 #### pollutant
 
 #### radiant
-
-#### habitat
-
-#### lava
-
-#### meteor
+喜气洋洋的，容光焕发的，辐射的，放射的
 
 #### prieset
-
-#### cane
-
-#### mount
+牧师
 
 #### wane
+衰落
 
 #### embryo
+胚胎
 
 #### diverge
-
+分叉，发生分歧
 #### coral
-
+珊瑚
 #### typify
-
+体现
 #### vertebrate
+有脊椎的
 
 #### lettuce
+
 #### peculiarity
+特性
+
+#### cottage 
+小屋
 
 #### linguistic
 
 #### nestle
-
+使）安卧；（使）依偎
 #### astronomy
-
+天文学
 #### unequaled
 
 #### distress
-
+痛苦
 #### stellar
 
-#### plum
 
+#### plum
+李子
+称心如意的
 #### sensory
 
 #### irresistible
-
+不可抗拒的
 #### hormone
 
 #### mimic
-
-#### dictate
-
-#### taxation
-
-#### gross
+模仿
 
 #### harmonious
-
+和谐的
 #### plumb
-
+垂直的
 #### ditch
-
-#### barren
-
-#### shrinkage
-
-#### pesticide
+抛弃， 排水沟
 
 #### rehearsal
-
+排练，复述
 #### catelyst
+催化剂
 
 #### chamber
-
+洞穴，房间
 #### plow
+犁
 
 #### windmill
-
+风车
 #### ecologist
-
+生态学家
 #### asteroid
-
-#### disharmony
-
-#### violet
-
-#### acidity
-
-#### scarce
-
-
+小行星
 #### starch
+淀粉
 
 #### peck
-
+啄
 #### deplete
-
+消耗
 #### landmass
 
 #### counsel
-
+劝告，建议
 #### pollinate
-
+授粉
 #### hamper
-
-#### anchor
-
-#### inhibit
+阻碍
 
 #### temperate
-
+温和的
 #### hardy
-
+强壮的
 #### aromatic
-
+芳香的
 #### trickle
-
+缓慢移动
 #### swirl
-
+旋转
 #### feat
-
+功绩
 #### odor
-
+气味
 #### glacier
-
+冰川
 #### gut
-
+内部，勇气
 #### avoidance
-
+逃避
 #### apparatus
-
+设备
 #### intervention
-
-#### bust
+干涉
+#### bust’
+弄坏，半身塑像
 #### mediate
+调解，干预
 
 #### predatory
-
+捕食性的
 #### heredity
-
+遗传
 #### skull
-
+头骨
 #### discredit
-
+使不可信
 #### rebellion
-
+反抗
 #### sculpture
-
+雕塑
 #### audition
-
+试镜
 #### blacksmith
-
+铁匠
 #### phoenix
-
+凤凰
 #### conformity
-
+遵守 符合  compliance correspondence, in conformity with something
 #### granite
-
+花岗岩
 #### quest
-
+寻求 探索
 #### posit
-
-#### rodent
-
-#### flock
-
-#### reclaim
+断定
 
 #### equator
-
-#### perimeter
-
-#### proverb
-
-#### stove
+赤道
 
 #### aroma
-
+香气
 #### primate
 
 #### audible
 
 #### aisle
-
+通道
 #### torrent
 
 #### wig
-
+假发
 #### sap
-
+使衰竭
 #### consulate
 
 #### glossary
-
+词汇表
 #### engrave
 
 #### embellish
-
-#### irreversible
+美化
 
 #### resonance
 
-#### anthrophlogy
-
+#### anthropology
+人类学
 #### decipher
-
-#### flora
+解码
+#### floral
+花的
 
 #### frenzy
 
 #### saline
-
+盐水
 #### ore
 
 #### aquarium
-
+水族馆
 #### sinkhole
 
 #### zenith
-
+顶点
 #### courtship
-
+求爱
 #### paleontology
+古生物学
 
-#### subordinate
 
 #### erratic
-
+不稳定的
 #### outpost
-
+前哨
 #### influx
+
 #### plume
-
+羽毛
 #### succession
-
+演替
 #### mosaic
-
+镶嵌
 #### agitate
-
-#### ingenious
-
-#### artisan
-
-#### radiator
-
-#### satire
-
-#### elevation
-
+搅拌
 #### sift
-
-#### volatile
+筛子
 
 #### shroud
 
 #### growl
+咆哮
 
-#### deem
-
-#### reciprocity
-
-#### elicit
-
-#### pivotal
-
-#### sterile
-
-#### exploitation
-
-#### mite
-
-#### mammoth
-
-#### arduous
-
-#### vine
-
-#### landfill
 #### groom
-
+马夫
 #### delineate
-
-#### harness
-
-#### alteration
-
-#### smother
-
+勾画
 #### revolve
-
-#### allude
+围绕
 
 #### salinity
+盐度
 
 #### infusion
-
+注入
 #### clog
-
+阻塞
 #### crescent
-
+新月
 #### indicative
 
 #### formidable
@@ -737,57 +634,57 @@ comprise
 #### infringe
 
 ####  anatomy
-
+解剖学
 #### conjunction
-
+会和
 #### rye
-
+黑麦
 #### meadow
 
 #### speck
-
+斑点
 #### arousal
 
 #### ambient
-
+周围
 #### undisputed
 
 #### secular
-
+世俗
 #### divergence
-
+分歧
 #### Cambrian
 
 #### tyrant
-
+暴君
 #### presumably
 
 #### phony
-
+假的
 #### requisition
-
+征用
 #### encroach
-
+侵犯
 #### provision
 
 #### stark
-
+鲜明
 #### lyrical
 
 #### chronological
 
 #### eradicate
-
+根除
 #### entice
-
+诱惑
 #### manuscript
 
 #### cling
 
 #### bleach
-
+漂白
 #### devour
-
+吞食
 #### advent
 
 #### runoff
@@ -796,191 +693,169 @@ comprise
 #### indefinite
 
 #### spout
-
+喷口
 #### indigestion
 
 #### interim
-
+临时的
 #### porcelain
-
+瓷器
 #### parasitic
 
 #### terrace
-
+阳台
 #### chore
-
-#### stem
-
-#### entangle
+琐事
 
 #### detrimental
-
+有害的
 #### afield
 
 #### grinding
 
 #### resonate
-
+谐振
 #### insulate
-
-#### camouflage
-
+隔离
 #### grandiose
-
+宏伟的
 #### fetus
-
+胎儿
 #### scrape
-#### feadal
-
+刮
+#### feudal
+封建的
 #### nomadic
+游牧的
 
-#### gear
 
 #### waterfowl
-
+水禽
 #### anecdotal
-
+异事
 #### cobble
-
+鹅卵石
 #### mirage
-
+幻境
 #### amass
-
+聚集
 #### chlorophyll
-
-#### pancreas
-
-#### ooze
+叶绿素
 
 #### lipid
-
+脂类
 #### impediment
-
+障碍
 #### coral
-
+珊瑚
 #### chisel
-
+凿
 #### antagonize
-
+对抗
 #### algae
-
+海藻
 #### gibbon
-
+长臂猿
 #### atheist
 
 #### tentacle
-
+触手
 #### supplant
-
+取代
 #### prerequisite
-
-#### perpetuate
+先决条件
 
 #### mural
-
+壁画
 #### crouch
-
+蹲下
 #### stringent
 
-#### encompass
 
 ####  bleak
-
+苍凉的
 #### toad
-
+蟾蜍
 #### impart
-
+传授
 #### lumber
-
+木材
 #### wrought
 
 #### diffuse
-
+扩散
 #### resin
+树脂
 
-#### reddish
 
 #### tundra
-
+苔原
 #### olfacory
 
 #### potassium
-
+钾盐
 #### cedar
-
+雪松
 #### smug
-
+踌躇满志
 #### preponderance
-
-#### noxious
-
+优势
 #### lithosphere
-
+岩石圈
 #### shed
-
+棚子
 #### akin
-
-#### kerosene
 
 #### niche
 
-#### harness
-
 #### dissolve
-
+溶解
 #### gulf
 
 #### fertile
-
+肥沃
 #### astute
-
+精明的
 #### beak
-
+鸟喙
 #### vestige
-
+痕迹
 #### thorny
+棘手的
 
-#### tenement
 
 #### potash
-
+碳酸钾
 #### enzyme
-
+酵素
 #### mandate
-
+要求，授权
 #### ion
-
-#### synchronous
-
+离子
 #### quadrilateral
 
-#### polygon
-
 #### penchant
-
+爱好
 #### observatory
-
+天文台
 #### marrow
-
-
+骨髓
 #### cone
-
+锥体
 #### burrow
-
+洞穴
 #### beacon
-
-#### astronomy
-
+信标，灯标
 #### agitation
-
+搅动，激动
 #### disrepute
-
+声名狼藉
 #### pigment
-
+颜料
 #### flax
 
 #### incubate
-
+孵化
 #### backbone
 
 #### peripheral
@@ -988,163 +863,140 @@ comprise
 #### fossil
 
 #### plummet
-
+暴跌
 #### rodent
 
 #### rental
-
+出租
 #### realism
 
 #### baboon
-
+狒狒
 #### condor
-
+秃鹰
 #### asteroid
 
 #### modem
-
-
+调制解调器
 #### superintendent
-
+所长，管理人
 #### rehabilitate
-
+恢复
 #### propensity
-
-
+倾向
 #### meander
-
+蜿蜒
 #### lavish
-
+奢侈的
 #### devoid
-
+缺乏的
 #### canyon
-
+峡谷
 #### burgeon
 
 #### microbe
-
+微生物
 #### pluck
-
+采摘
 #### extent
-
+程度
 #### puddle
-
+水坑
 #### stagnant
-
+停滞不前
 #### wool
 
 #### vertebrate
-
-
+脊椎动物
 #### trunk
-
-#### tin
+树干
 
 #### subsist
 
 #### sterile
-
+不育的
 #### stagecoach
 
 #### sloth
-
+懒惰
 #### revere
-
+尊重
 #### metropolis
-
-
-
+都会
 #### limestone
-
+石灰石
 #### jurisdiction
-
-#### inviting
+管辖权
 
 #### immobilize
-
+固定
 #### hexagon
-
+六边形
 #### funnel
-
+漏斗
 #### formidable
-
-#### entrance
+强大
 
 #### embryo
-
+胚胎
 #### deity
-
-#### charcoal
+神
 
 #### canopy
-
+棚，
 #### fungus
-
+菌
 #### nectar
-
+花蜜
 #### genus
-
+类别
 #### subsidize
-
+资助
 #### percussion
-
+打击乐器
 #### motif
-
+主题
 #### incongruous
-
-
-
+不协调的
 #### bison
-
-
+野牛
 #### axe
-
+斧头
 #### undermine
-
+破坏
 #### roam
-
+漫游
 #### granite
 
 #### earthenware
-
+陶器
 #### cylinder
 
 #### swamp
-
-#### peculiar
+沼泽
 
 #### crater
-
+火山口
 #### caterpillar
-
-#### planetary
-
-#### lone
-
+毛虫
 #### troupe
-
+剧团
 #### maize
-
+玉米  corn
 #### methane
-
-#### invertebrate
-
-#### dogged
-
+甲烷
 #### bumblebee
-
-#### deteriorate
+熊蜂
 
 #### tale
-
-#### stem
+故事
 
 #### retreat
-
+撤退
 #### rattle
-
+拨浪鼓
 #### precursor
-
+前体
 #### moth
 
 #### jumble
@@ -1188,6 +1040,8 @@ comprise
 #### scavenger
 
 #### meteorite
+陨石
+meteor 流星，大气现象
 
 #### incentive
 
@@ -1206,7 +1060,7 @@ comprise
 #### sandy
 
 #### boulder
-
+巨石
 #### bipedal
 
 #### willow
@@ -1997,25 +1851,36 @@ comprise
 #### autobiography
 
 #### allegory
-
+寓言
 #### heroine
-
+海洛因
 #### satire
-
+讽刺
 #### monologue
-
+独白
 #### rhyme
-
+韵
 #### stress
-
+强调
 #### narrator
 
 #### narration
-
-#### playwright
-
-#### lyric
-
-#### prose
-
+叙述
 #### suspense  
+悬念
+#### ponderous 
+沉重的，
+
+#### oblivious 
+未注意到的，忘却的
+#### fare
+费用
+#### gregarious
+群居的，爱社交的
+#### hoof
+蹄，步行
+
+#### posthumous
+死后的
+#### spearhead
+先锋
