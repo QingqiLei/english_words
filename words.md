@@ -1884,3 +1884,214 @@ meteor 流星，大气现象
 死后的
 #### spearhead
 先锋
+
+#### bifurcate
+分成两支
+
+#### boorish
+粗俗的
+
+#### disgorge
+吐出，涌流出  （gorge 吞咽，峡谷）
+
+#### carouse
+痛饮狂欢
+
+#### archaic
+古老的，过时的
+#### emollient
+起缓和作用的，润肤剂
+
+#### beguile
+诱骗， 迷住
+
+#### elegy
+哀歌
+
+#### cosset
+宠爱  纵容  dote  spoil pamper
+
+#### abrogate
+废除， 撤销
+
+#### atrocious
+残暴的
+
+#### balky
+执拗的， 停滞不前的  balk 阻碍
+
+#### contravene 
+违反
+
+#### calcify
+钙化， 硬化 stiff
+#### adumbrate
+勾画轮廓 
+
+#### canard
+谣传，误传
+
+#### barefaced
+厚颜无耻的，公然地
+
+#### bristle
+刚毛， 发怒
+
+#### emaciate
+消瘦，衰弱
+
+#### cloak
+斗篷，掩饰
+
+#### beseech
+恳求  appeal conjure implore solicit entreat
+
+#### bootless
+无用的
+
+#### dolt
+傻瓜
+
+#### equivocate
+含糊其辞，说谎话
+
+#### earsplitting
+极响的
+
+#### banter
+轻松说笑，打趣
+
+#### akmi
+顶点
+
+#### bridle
+马笼头，约束，抑制，缰绳
+
+#### anathema
+诅咒，讨厌的人或事
+
+#### escalate 
+逐步升高
+
+
+#### corrugated
+使起波状壮的， 起皱纹的，
+
+#### aseptic
+无菌的， 冷漠的
+
+#### abeyance
+中止，  suspension， cessation
+
+#### expedite
+加快，加速，有助于，  expeditious 迅速有效地
+
+#### embryonic 
+胚胎期的，  embryo 胚胎
+
+#### abstruse
+难解的， 深奥的
+
+#### covetous 
+贪婪的，渴望的
+
+#### blazon
+大声宣布 装饰 徽章
+
+#### evanescent
+短暂的，很快消失的
+
+
+#### epithet
+绰号，称号
+
+#### enamel
+指甲油， 用光亮的表面装饰
+
+#### extraneous
+无关的，外来的
+
+#### debase
+贬低
+
+#### abase
+贬低，降低
+
+#### dappled 
+有斑点的
+
+#### coax
+哄骗，用好话引诱
+
+#### contumacious
+拒不服从的，藐视法庭的
+
+#### curt
+唐突的，
+#### cult 
+狂热崇拜
+
+#### curb
+抑制 
+
+#### detritus
+岩屑，残余物，碎屑，废品
+
+#### ethereal
+轻飘的，虚空的，
+
+#### chimera
+妄想， 嵌合体，幻觉
+
+#### curmudgeon
+脾气坏的人
+
+#### convulsion
+抽搐 动乱， 骚乱
+
+#### abstain
+自我克制，弃权，戒绝
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
