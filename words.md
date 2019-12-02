@@ -1999,7 +1999,7 @@ meteor 流星，大气现象
 大声宣布 装饰 徽章
 
 #### evanescent
-短暂的，很快消失的
+短暂的，很快消失的 ever:曾经
 
 
 #### epithet
@@ -2038,7 +2038,7 @@ meteor 流星，大气现象
 岩屑，残余物，碎屑，废品
 
 #### ethereal
-轻飘的，虚空的，
+轻飘的，虚空的， feather 羽毛， 
 
 #### chimera
 妄想， 嵌合体，幻觉
@@ -2052,11 +2052,385 @@ meteor 流星，大气现象
 #### abstain
 自我克制，弃权，戒绝
 
+#### brevity
+短暂， 简短，简洁
 
+#### delusion
+幻想，错觉，妄想
 
+#### euphonious
+悦耳的，和谐的
 
+#### detour
+绕道
 
+#### avid
+渴望的，热衷的
 
+#### distill
+蒸馏， 提炼
+
+#### exculpate 
+开脱，辩白
+
+#### cherubic
+天使般可爱的
+
+#### dour
+冷酷的，严厉的
+
+#### belabor
+痛击， 痛斥， 喋喋不休，啰嗦
+
+#### dilatory
+拖拉的，磨蹭的
+
+#### epilogue
+尾声，后记，收场白
+
+#### debacle
+崩溃，惨败，溃逃
+
+#### congruent 
+符合的，和谐一致的，全等的
+
+#### detach 
+脱离，分离，（to separate for a special object or use）派遣 dispatch
+
+#### decadence 
+堕落
+
+#### drivel
+胡说
+
+#### exonerate
+确定无罪，免除  absolve， exempt
+
+#### apposite
+适当的， 恰切的
+
+#### brazen 
+黄铜制的，黄铜色的，厚颜无耻的，大胆的
+
+#### circumlocution
+绕圈子的话
+
+#### charlatan 
+冒充内行者，骗子
+
+#### commingle
+混合，掺合
+
+#### bliss 
+极乐，无上幸福
+
+#### eulogize
+称赞，颂扬 
+
+#### credulous
+轻易相信的，容易受骗的
+
+#### elucidate
+阐明， 说明
+#### acrimonious
+尖酸刻薄的，
+
+#### alacrity
+敏捷 活泼 欣然 乐意
+
+#### dingy
+昏暗的，肮脏的
+
+#### clownish 
+滑稽的
+
+#### disavow
+不承认，否认 vow： 发誓，许愿
+
+#### effusive
+溢于言表的， 感情奔放的
+
+#### enfranchise
+使有权力，给予选举权
+
+#### anthropogenic
+人为的，人类起源的
+
+#### blatant
+公然地，明目张胆的，喧闹的， latent： 潜在的
+
+#### discommode
+使烦恼， 使为难
+
+#### dolorous
+悲哀的，忧愁的
+
+#### effervesce
+起泡沫的，冒泡，热情的
+
+#### bigot
+抱有偏见的人，顽固者
+
+#### demography 
+人口统计学
+
+#### exasperate
+使恼怒，使恶化，使加剧
+
+#### accentuate
+重读 强调 突出， accent：口音， 强调
+
+#### decorous 
+得体的，高雅的
+
+#### craven
+懦弱的， 懦弱者
+
+#### cavil
+挑毛病， 挑剔
+
+#### ecstasy
+狂喜， 入迷
+
+#### croon
+低吟，轻哼
+
+#### episodic
+由松散片段组成的， 不定期发生的
+
+#### dreary
+忧郁的，凄凉的
+
+#### deluge
+大洪水， 大量涌入
+
+#### antic
+古怪的，诙谐的
+
+#### abnegate
+放弃，舍弃
+
+#### cantankerous
+脾气坏的，爱发牢骚的
+
+#### endemic 
+地方的（疾病）， epidemic 流行的  ，  pandemic 全国的
+
+#### brash
+傲慢的，易碎的，无礼的
+
+#### excruciate
+使痛苦， 折磨
+
+#### doyen
+老前辈 首席
+
+#### anterior
+前面的 较早的
+
+#### ambrosial
+芬香的，特别美味的
+
+#### bedeck
+装饰 修饰
+
+#### cosmopolitan
+包容的，有世界性眼光的
+
+#### disgruntle
+使不高兴
+
+#### clarity 
+清楚，透明
+
+#### effete
+衰弱的，衰落的，缺乏信念的
+
+#### coeval 
+同时代的 （人）
+
+#### defuse
+拆除引信，缓和，较少危险
+
+#### ennui
+无聊，厌倦
+
+#### dandy
+花花公子， 华丽的，极好的
+
+#### apoplectic
+中风的 易怒的
+
+#### emboss
+加浮雕花纹， 使突出， 装饰
+
+#### bruit
+传播  散布  fruit 
+
+#### blemish 
+污点，瑕疵， 玷污，损害
+
+#### chokehold
+掐脖子， 压制
+
+#### balloon
+迅速增加， 气球
+
+#### divulge
+泄密，泄露
+
+#### etch
+凿刻 蚀刻 铭记
+
+#### errant
+行为不当的， 
+
+#### broach
+钻孔开口 开瓶 开启 提出话题
+
+#### clandestine
+秘密的 暗中行事的
+
+#### cowardice
+懦弱 胆小
+
+#### ebullient
+奔放的  沸腾的
+
+#### conspire 
+阴谋策划
+
+#### disabuse
+消除谬误  使省悟 纠正 
+
+#### countenance 
+支持， 面容
+
+#### extant
+现存的
+
+#### canon
+教规 学说
+
+#### expiate
+赎罪 抵偿
+
+#### egoistic
+自私的，利己的
+
+#### deprecate
+不满 反对 轻视
+
+#### extemporize 
+即兴创作，即席演说
+
+#### desultory
+散漫的 不连贯的
+
+#### engender 
+引起 产生
+
+#### caustic
+腐蚀的，苛性的，刻薄的
+
+#### askew
+歪的
+
+#### chic
+时髦的
+
+#### crass
+愚蠢的 非常的
+
+#### compunction
+责备  后悔  悔恨
+
+#### dissension
+意见分歧   争执
+
+#### convoluted
+盘旋的，复杂的，
+
+#### adjourn
+休会 延期
+
+#### entrap
+俘获  诱捕
+
+#### dogmatic
+教条的 武断的 固执的
+
+#### conundrum
+迷，难题
+
+#### duplicitous
+两面派的 奸诈的 欺骗的
+
+#### eavesdrop
+偷听
+
+#### balderdash
+胡话， 无意义的话
+
+#### ennoble
+使高贵，使成贵族，使受尊敬
+
+#### distend
+膨胀， 使扩张
+
+#### dank
+阴湿的
+
+#### abstemious
+有节制的
+
+#### ascetic
+苦行的，禁欲者
+
+#### constringe
+收缩，压缩 constringe pore 收缩毛孔
+
+#### estrange 
+使疏远
+
+#### awry
+歪的，出差错的
+
+#### beleaguer
+围攻，困扰
+
+#### ancillary
+辅助的 附属的  后勤人员  附加项目
+
+#### cronyism
+任用亲信  
+
+#### dodder
+蹒跚 老态龙钟 步履不稳
+
+#### encomium
+赞美  称赞
+
+#### atone 
+补偿 赎罪 偿还
+
+#### audacious
+大胆的 
+
+#### alibi
+托辞  借口  不在犯罪现场证明
+
+#### diatribe
+谩骂 抨击 证明为假
+
+#### debunk
+揭穿  暴露
+
+#### discursive
+不着边际的
+
+#### cloying
+令人腻烦的
 
 
 
