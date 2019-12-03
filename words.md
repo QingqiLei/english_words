@@ -770,7 +770,7 @@ robin
 #### crouch
 蹲下
 #### stringent
-
+严格的
 
 ####  bleak
 苍凉的
@@ -2432,15 +2432,148 @@ meteor 流星，大气现象
 #### cloying
 令人腻烦的
 
+#### daredevil
+鲁莽大胆的
 
+#### aphorism
+格言
 
+#### civility
+礼貌
 
+#### congeal
+凝固
 
+#### draconian
+严酷的  苛刻的
 
+#### dullard
+笨蛋
 
+#### everlasting
+永久的
+#### excrete
+排泄，分泌
 
+#### dissect 
+解剖， 剖析
 
+#### blandishment
+奉承
 
+#### exude
+显露，渗出
+
+#### dissemble
+掩饰 假装 隐藏
+
+#### demotic
+大众的
+
+#### extenuate
+减轻罪过， 低估
+
+#### awe
+敬畏
+
+#### abscond
+逃亡 潜逃
+
+#### deify
+神化 崇拜
+
+#### abrade
+磨损 擦伤
+
+#### bumptious
+傲慢的   bump 撞
+
+#### aspirant
+有志者， 有抱负的
+
+#### asunder
+成碎片地   分离地
+
+#### accrete
+共生 逐渐增长
+
+#### clout
+猛击，影响力
+
+#### comity
+礼让 和谐
+
+#### discompose
+使不安 打扰
+
+#### eleemosynary
+施舍的 慈善的
+
+#### callous
+无情的 起老茧的
+
+#### delve
+探究 钻研 翻找
+
+#### confound
+使疑惑 使惊讶
+
+#### bravura
+大胆的尝试 精湛的技艺
+
+#### chasm
+裂口 显著差别
+
+#### boisterous 
+喧闹的 狂暴的
+
+#### deadpan
+面无表情的 ，冷淡的
+
+#### daunt
+使气馁 使胆怯  吓到
+
+#### demur
+反对 
+
+#### asperity
+严酷  粗暴  刻薄
+
+#### deleterious
+有害的
+
+#### cornucopia
+丰饶 聚宝盆
+
+#### exacercate
+使加剧 使恶化
+
+#### brassy
+铜色的 厚脸皮的  brazen
+
+#### despicable
+可鄙的 卑劣的   despise
+
+#### admonish
+劝告
+
+#### elate
+使高兴 使骄傲
+
+#### cagey
+讳莫如深的 谨慎的 守口如瓶的
+
+#### carp 
+吹毛求疵
+
+#### expediency
+权宜之计 私利 
+
+#### digress 
+偏离主题
+
+#### calumniate
+中伤
 
 
 
