@@ -2575,6 +2575,16 @@ meteor 流星，大气现象
 #### calumniate
 中伤
 
+#### convalesce
+逐渐康复  复原
+
+#### discretion
+谨慎 自我决定
+
+#### embezzle
+盗用 挪用
+
+#### 
 
 
 
