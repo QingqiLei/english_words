@@ -2584,7 +2584,17 @@ meteor 流星，大气现象
 #### embezzle
 盗用 挪用
 
-#### 
+#### impenitent
+无悔意的
+
+#### idolatrize
+盲目崇拜
+
+#### guzzle
+狂饮暴食  大量消耗
+
+#### fetter 
+枷锁 限制
 
 
 
